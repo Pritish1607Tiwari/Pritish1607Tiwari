@@ -12,6 +12,13 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Pritish1607Tiwari&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pritish1607Tiwari&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PRITISH1607TIWARI&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=PRITISH1607TIWARI&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -25,6 +32,8 @@
 </div>
 
 
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
