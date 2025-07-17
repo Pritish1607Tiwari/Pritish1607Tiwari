@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm a Data Scientist and Data Analyst passionate about turning data into actionable insights.  <br>🔍 I specialize in Python, SQL, and machine learning to solve real-world problems.  <br>📊 Experienced in data visualization, statistical analysis, and business intelligence tools like Power BI.  <br>💡 Always exploring new techniques in AI, predictive modeling, and data storytelling.  <br>🚀 Open to collaboration on data-driven projects and eager to keep learning every day.<br>
+👋 Hi, I'm a Data Scientist and Data Analyst passionate about turning data into actionable insights.  <br>🔍 I specialize in Python, SQL, and machine learning to solve real-world problems.  <br>📊 Experienced in data visualization, statistical analysis, and business intelligence tools like Power BI .  <br>💡 Always exploring new techniques in AI, predictive modeling, and data storytelling.  <br>🚀 Open to collaboration on data-driven projects and eager to keep learning every day.<br>
 
 
 ## 🌐 Socials:
